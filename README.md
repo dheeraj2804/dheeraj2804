@@ -18,7 +18,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 M.S. Computer Science candidate at **Wichita State University**
-- 🛠️ 2 years of experience building **ETL pipelines**, **full-stack applications**, and **ML/AI systems**
+- 🛠️ 3 years of experience building **ETL pipelines**, **full-stack applications**, and **ML/AI systems**
 - 🤖 NLP enthusiast passionate about building intelligent, language-driven solutions
 - ⚙️ Automation builder — I love turning repetitive workflows into elegant pipelines
 - 💼 Actively open to **Software Engineering**, **ML Engineering**, and **Data Engineering** roles
